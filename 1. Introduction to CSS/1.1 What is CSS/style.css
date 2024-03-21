@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style-type: none;
+}
+
+article {
+    width: 100vw;
+    overflow: hidden;
+    border: 3px solid black;
+    background-color: darkslategrey;
+    padding: 10px;
+}
+
+h1 {
+    font-size: 32px;
+    line-height: 48px;
+    color: white;
+}
+
+p {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 18px;
+    color: white;
+}
