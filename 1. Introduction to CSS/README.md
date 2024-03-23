@@ -6,3 +6,4 @@ CSS - это язык стилей, который используется дл
 
 - [Что такое CSS?](1.1%20What%20is%20CSS/README.md)
 - [Синтаксис CSS](1.2%20CSS%20Syntax/README.md)
+- [Селекторы в CSS](1.3%20CSS%20Selectors/README.md)
