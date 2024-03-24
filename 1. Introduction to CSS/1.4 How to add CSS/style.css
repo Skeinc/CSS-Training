@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style-type: none;
+}
+
+h1 {
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 48px;
+    color: rgba(32, 32, 32, 1);
+    text-align: center;
+}
+
+p {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    color: rgba(150, 150, 150, 1);
+    text-align: left;
+}
