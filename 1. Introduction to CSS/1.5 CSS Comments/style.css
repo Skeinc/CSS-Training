@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style-type: none;
+}
+
+/* This is a single-line comment */
+p {
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 18px;
+    color: rgba(32, 32, 32, 1);
+}
+
+/* This is
+a multi-line
+comment */
+h1 {
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 48px;
+    color: rgba(20, 20, 20, 1);
+    text-align: center;
+}
