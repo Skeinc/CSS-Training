@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style-type: none;
+}
+
+body {
+    background-color: lightblue;
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-attachment: fixed;
+}
+
+address {
+    background-color: transparent;
+    opacity: 0.8;
+}
+
+.container-hint {
+    background-color: transparent;
+    opacity: 0.5;
+}
+
+.container-image {
+    background-image: url('background.jpg');
+}
+
+.banner-image {
+    background: #ffffff url("banner-image.jpg") no-repeat right top;
+}

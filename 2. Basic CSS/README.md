@@ -5,3 +5,4 @@ CSS (Cascading Style Sheets) - это язык стилей, который ис
 Посетите следующие ресурсы, чтобы узнать больше:
 
 - [CSS цвета](2.1%20CSS%20Colors/README.md)
+- [CSS фон](2.2%20CSS%20Backgrounds/README.md)
