@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style-type: none;
+}
+
+.border-dotted {
+    border-style: dotted;
+}
+
+.border-dashed {
+    border-style: dashed;
+}
+
+.border-solid {
+    border-style: solid;
+}
+
+.border-groove {
+    border-style: groove;
+}
+
+.border-ridge {
+    border-style: ridge;
+}
+
+.border-inset {
+    border-style: inset;
+}
+
+.border-outset {
+    border-style: outset
+}
+
+.border-none {
+    border-style: none;
+}
+
+.border-hidden {
+    border-style: hidden;
+}
