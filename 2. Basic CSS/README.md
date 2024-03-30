@@ -8,3 +8,4 @@ CSS (Cascading Style Sheets) - это язык стилей, который ис
 - [CSS фон](2.2%20CSS%20Backgrounds/README.md)
 - [CSS границы](2.3%20CSS%20Borders/README.md)
 - [CSS внешние отступы](2.4%20CSS%20Margins/README.md)
+- [CSS внутренние отступы](2.5%20CSS%20Paddings/README.md)
