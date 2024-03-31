@@ -9,3 +9,4 @@ CSS (Cascading Style Sheets) - это язык стилей, который ис
 - [CSS границы](2.3%20CSS%20Borders/README.md)
 - [CSS внешние отступы](2.4%20CSS%20Margins/README.md)
 - [CSS внутренние отступы](2.5%20CSS%20Paddings/README.md)
+- [CSS высота и ширина](2.6%20CSS%20Height,%20Width/README.md)
