@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style-type: none;
+}
+
+.dotted {
+    outline-style: dotted;
+    outline-width: 3px;
+    outline-color: red;
+    outline-offset: 5px;
+}
+
+.dashed {
+    outline-style: dashed;
+}
+
+.solid {
+    outline-style: solid;
+}
+
+.double {
+    outline-style: double;
+}
+
+.groove {
+    outline-style: groove;
+}
+
+.ridge {
+    outline-style: ridge;
+}
+
+.inset {
+    outline-style: inset;
+}
+
+.outset {
+    outline-style: outset;
+}
