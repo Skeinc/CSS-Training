@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style-type: none;
+}
+
+span {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.5;
+    letter-spacing: 2px;
+    text-shadow: 1px 1px 2px #000;
+}
+
+span:hover {
+    text-decoration: underline;
+}
+
+p {
+    text-align-last: justify;
+    direction: rtl;
+    unicode-bidi: bidi-override;
+    vertical-align: baseline;
+    text-decoration-line: overline;
+    text-decoration-color: red;
+    text-decoration-style: solid;
+    text-decoration-thickness: 5px;
+    text-transform: uppercase;
+}
+
+.text {
+    text-indent: 50px;
+    word-spacing: 10px;
+    white-space: nowrap;
+}
