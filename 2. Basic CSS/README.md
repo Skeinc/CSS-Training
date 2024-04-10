@@ -17,3 +17,4 @@ CSS (Cascading Style Sheets) - это язык стилей, который ис
 - [CSS иконки](2.11%20CSS%20Icons/README.md)
 - [CSS стилизация ссылок](2.12%20CSS%20Links/README.md)
 - [CSS списки](2.13%20CSS%20Links/README.md)
+- [CSS таблицы](2.14%20CSS%20Tables/README.md)
