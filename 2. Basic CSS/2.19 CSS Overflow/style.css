@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style-type: none;
+}
+
+.container {
+    width: 500px;
+    height: 200px;
+    overflow-y: scroll;
+}
+
+p {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.5;
+    color: rgb(32, 32, 32);
+    text-align: justify;
+    text-indent: 1rem;
+}
