@@ -18,4 +18,5 @@ li {
     height: auto;
     padding: 10px;
     border: 1px dashed grey;
+    border-radius: 5px;
 }
