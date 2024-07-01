@@ -25,3 +25,4 @@ CSS (Cascading Style Sheets) - это язык стилей, который ис
 - [CSS overflow](2.19%20CSS%20Overflow/README.md)
 - [CSS float](2.20%20CSS%20Float/README.md)
 - [CSS inline-block](2.21%20CSS%20Layout%20-%20display:%20inline-block/README.md)
+- [CSS align](2.22%20CSS%20Align/README.md)
