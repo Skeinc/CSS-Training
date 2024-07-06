@@ -11,3 +11,19 @@ a {
 li {
     list-style-type: none;
 }
+
+.container p {
+    color: red;
+}
+
+.menu > li {
+    display: inline-block;
+}
+
+h1 + p {
+    font-weight: 500;
+}
+
+h2 ~ p {
+    color: grey;
+}
