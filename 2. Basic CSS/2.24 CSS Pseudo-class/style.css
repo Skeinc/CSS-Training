@@ -11,3 +11,23 @@ a {
 li {
     list-style-type: none;
 }
+
+a:visited {
+    color: red;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.container:first-child {
+    border-top: 1px solid grey;
+}
+
+.container:last-child {
+    border-bottom: 1px solid grey;
+}
+
+input:focus {
+    border: 1px solid blue;
+}
