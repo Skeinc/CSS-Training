@@ -30,3 +30,4 @@ CSS (Cascading Style Sheets) - это язык стилей, который ис
 - [CSS псевдоклассы](2.24%20CSS%20Pseudo-class/README.md)
 - [CSS псевдоэлементы](2.25%20CSS%20Pseudo-elements/README.md)
 - [CSS прозрачность](2.26%20CSS%20Opacity/README.md)
+- [CSS селектор атрибута](2.27%20CSS%20Attribute%20Selector/README.md)

@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style-type: none;
+}
+
+a[target] {
+    text-decoration: underline;
+}
+
+a[target="_blank"] {
+    color: grey;
+}
+
+p[title~="Greeting"] {
+    border-bottom: 1px solid grey;
+}
+
+p[title|="Hello"] {
+    opacity: 0;
+}
+
+p[title^="top"] {
+    background-color: yellow;
+}
+
+p[title$="end"] {
+    background-color: red;
+}
+
+p[title*="o"] {
+    text-transform: uppercase;
+}
