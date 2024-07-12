@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style-type: none;
+}
+
+.counter-container {
+    counter-reset: section;
+}
+
+.counter-item {
+    counter-increment: section;
+}
+
+.counter-item::before {
+    content: counter(section) ". ";
+}
