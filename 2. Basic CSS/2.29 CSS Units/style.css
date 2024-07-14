@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style-type: none;
+}
+
+.container-px {
+    width: 200px;
+    height: 100px;
+}
+
+.container-cm {
+    width: 10cm;
+    height: 5cm;
+}
+
+.container-in {
+    width: 2in;
+    height: 1in;
+}
+
+.container-pt {
+    font-size: 12pt;
+    margin: 1pc;
+}
+
+.container-procent {
+    width: 50%;
+    height: 50%;
+}
+
+.container-em {
+    font-size: 2em;
+    margin: 1.5em;
+}
+
+.container-rem {
+    font-size: 2rem;
+    padding: 1rem;
+}
+
+.container-view-port {
+    width: 50vw;
+    height: 50vh;
+}
+
+.container-fr {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
