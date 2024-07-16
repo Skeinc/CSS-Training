@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style-type: none;
+}
+
+/* Специфичность 0-0-0-1 */
+div {
+    width: 200px;
+}
+
+/* Специфичность 0-0-1-0 */
+.container {
+    width: 300px;
+}
+
+/* Специфичность 0-1-0-0 */
+#greeting {
+    width: 400px;
+}
+
+/* Специфичность 0-0-1-0 */
+.container {
+    width: 500px;
+}
+
+/* Специфичность 0-0-1-1 */
+div .container {
+    width: 550px;
+}
