@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style-type: none;
+}
+
+.container {
+    width: 200px !important;
+    height: 100px;
+}
+
+.container {
+    width: 250px;
+    height: 150px;
+}
+
+#id {
+    color: blue !important;
+}
+
+.class {
+    color: green !important;
+}
