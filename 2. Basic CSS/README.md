@@ -35,3 +35,4 @@ CSS (Cascading Style Sheets) - это язык стилей, который ис
 - [CSS единицы измерения](2.29%20CSS%20Units/README.md)
 - [CSS Специфичность](2.30%20CSS%20Specificity/README.md)
 - [CSS !important](2.31%20CSS%20!Important/README.md)
+- [CSS математические функции](2.32%20Math%20Functions/README.md)
