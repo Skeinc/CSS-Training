@@ -11,3 +11,26 @@ a {
 li {
     list-style-type: none;
 }
+
+.container {
+    width: calc(100% - 200px);
+    height: calc(100% - 80px);
+}
+
+.box {
+    width: 100%;
+    height: calc(50vh + 100px);
+}
+
+.container {
+    width: min(80%, 600px);
+}
+
+.box {
+    width: max(50%, 700px);
+}
+
+.text {
+    /* Размер шрифта будет увеличиваться с шириной экрана, но не меньше 14px и не больше 18px */
+    font-size: clamp(14px, 2vw, 18px); 
+}
