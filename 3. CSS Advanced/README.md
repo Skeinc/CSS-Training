@@ -4,4 +4,4 @@ CSS (Cascading Style Sheets) - это язык стилей, который ис
 
 Посетите следующие ресурсы, чтобы узнать больше:
 
-- [CSS Радиус границ](3.1%20CSS%20Border%20Radius/README.md)
+- [CSS Закругленные границы](3.1%20CSS%20Border%20Radius/README.md)
