@@ -11,3 +11,10 @@ a {
 li {
     list-style-type: none;
 }
+
+.box {
+    width: 200px;
+    height: 200px;
+    border-width: 10px;
+    border-image: url(border.png) 30 round;
+}
