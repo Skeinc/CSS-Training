@@ -11,3 +11,11 @@ a {
 li {
     list-style-type: none;
 }
+
+.container {
+    background-image: url('image.jpg');
+}
+
+.element {
+    background: url('background.jpg') no-repeat center/cover fixed border-box padding-box;
+}
