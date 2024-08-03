@@ -4,6 +4,6 @@ CSS - Это язык стилей, который используется дл
 
 Посетите следующие ресурсы, чтобы узнать больше:
 
-- [Введение в CSS](1.%20Introduction%20to%20CSS/README.md)
-- [Базовый CSS](2.%20Basic%20CSS/README.md)
-- [Продвинутый CSS](3.%20CSS%20Advanced/README.md)
+- [Введение в CSS](1.%20Introduction%20to%20CSS/README.md);
+- [Базовый CSS](2.%20Basic%20CSS/README.md);
+- [Продвинутый CSS](3.%20CSS%20Advanced/README.md);
