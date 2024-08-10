@@ -11,3 +11,24 @@ a {
 li {
     list-style-type: none;
 }
+
+body {
+    background-color: azure;
+}
+
+.container {
+    background-color: transparent;
+}
+
+.element {
+    color: blue;
+    border: 10px solid currentcolor;
+}
+
+.parent {
+    color: black;
+}
+
+.child-element {
+    background-color: inherit;
+}
