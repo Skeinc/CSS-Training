@@ -11,3 +11,22 @@ a {
 li {
     list-style-type: none;
 }
+
+h1 {
+    color: grey;
+    text-shadow: 2px 2px 5px rgba(150, 150, 150, 0.5);
+}
+
+h2 {
+    color: red;
+    text-shadow: 2px 2px 3px red, -2px -2px 3px blue;
+}
+
+.container {
+    width: 300px;
+    height: 150px;
+    border-radius: 10px;
+    border: 1px solid grey;
+    background-color: rgba(200, 200, 200, 1);
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);  
+}
