@@ -11,3 +11,23 @@ a {
 li {
     list-style-type: none;
 }
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Fonts */
+@font-face {
+    font-family: 'OpenSans';
+    src: url('fonts/OpenSans-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.open-sans {
+    font-family: 'OpenSans', Arial, sans-serif;
+}
+
+.roboto {
+    font-family: 'Roboto', 'Arial', sans-serif;
+}
