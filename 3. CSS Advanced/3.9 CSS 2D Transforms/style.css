@@ -12,7 +12,7 @@ li {
     list-style-type: none;
 }
 
-.box {
+.box-translate {
     transform: translate(50px, 100px);
 }
 
