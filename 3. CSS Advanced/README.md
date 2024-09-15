@@ -14,3 +14,4 @@ CSS (Cascading Style Sheets) - это язык стилей, который ис
 - [CSS шрифты браузера](3.8%20CSS%20Web%20Fonts/README.md);
 - [CSS 2D трансформации](3.9%20CSS%202D%20Transforms/README.md);
 - [CSS 3D трансформации](3.10%20CSS%203D%20Transforms/README.md);
+- [CSS переходы](3.11%20CSS%20Transitions/README.md);

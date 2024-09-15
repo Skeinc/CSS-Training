@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style-type: none;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    border: 1px solid grey;
+    background-color: black;
+    border-radius: 10px;
+    transition: 0.3s ease-out;
+}
+
+.box:hover {
+    transform: scale(1.2);
+}
+
+.box-delay {
+    width: 100px;
+    height: 100px;
+    border: 1px solid grey;
+    background-color: black;
+    border-radius: 10px;
+    transition: 0.3s ease-out 1s;
+}
+
+.box-delay:hover {
+    width: 200px;
+    height: 200px;
+}
