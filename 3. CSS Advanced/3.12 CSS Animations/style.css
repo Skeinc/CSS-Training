@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style-type: none;
+}
+
+@keyframes myAnimation {
+    0% {
+        transform: translateX(0);
+    }
+    50% {
+        transform: translateX(100px);
+    }
+    100% {
+        transform: translateX(0);
+    }
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    border-radius: 10px;
+    animation: myAnimation 2s infinite ease-in-out;
+}
