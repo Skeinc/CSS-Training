@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style-type: none;
+}
+
+.image-container {
+    width: auto;
+    height: auto;
+}
+
+.image-container img {
+    width: 300px;
+    height: auto;
+    object-fit: cover;
+    -webkit-box-reflect: below 10px;
+}
