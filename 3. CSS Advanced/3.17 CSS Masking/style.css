@@ -15,3 +15,7 @@ li {
 .image-mask {
     mask-image: linear-gradient(to right, black, transparent);
 }
+
+.clip-path {
+    clip-path: circle(50% at 50% 50%);
+}
