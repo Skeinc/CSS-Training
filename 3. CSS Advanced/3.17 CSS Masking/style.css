@@ -11,3 +11,7 @@ a {
 li {
     list-style-type: none;
 }
+
+.image-mask {
+    mask-image: linear-gradient(to right, black, transparent);
+}
