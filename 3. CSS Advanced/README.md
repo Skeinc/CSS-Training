@@ -21,3 +21,4 @@ CSS (Cascading Style Sheets) - это язык стилей, который ис
 - [CSS отражение изображений](3.15%20CSS%20Image%20Reflection/README.md);
 - [CSS object-fit](3.16%20CSS%20Object-fit/README.md);
 - [CSS маскировка](3.17%20CSS%20Masking/README.md);
+- [CSS кнопки](3.18%20CSS%20Buttons/README.md);

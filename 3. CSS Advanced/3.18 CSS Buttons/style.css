@@ -1,0 +1,86 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style-type: none;
+}
+
+.basic-button {
+    width: auto;
+    height: 50px;
+    appearance: none;
+    outline: none;
+    border: none;
+    background-color: #4CAF50;
+    color: white;
+    font-size: 16px;
+    padding: 0px 32px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+
+    &:hover {
+        border-radius: 10px; 
+        box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2)
+    }
+
+    &:active {
+        transform: scale(1.1);
+    }
+}
+
+.round-button {
+    width: auto;
+    height: 50px;
+    appearance: none;
+    outline: none;
+    border: none;
+    background-color: #4CAF50;
+    color: white;
+    font-size: 16px;
+    padding: 0px 32px;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: all 0.3s ease;
+
+    &:hover {
+        border-radius: 25%; 
+        box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2)
+    }
+
+    &:active {
+        transform: scale(1.1);
+    }
+}
+
+.gradient-button {
+    width: auto;
+    height: 50px;
+    appearance: none;
+    outline: none;
+    border: none;
+    background: linear-gradient(45deg, #f06, #f90);
+    color: white;
+    font-size: 16px;
+    padding: 0px 32px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+
+    &:hover {
+        border-radius: 10px; 
+        box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+        background: linear-gradient(45deg, #f90, #f06);
+    }
+
+    &:active {
+        transform: scale(1.1);
+    }
+}
