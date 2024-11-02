@@ -11,3 +11,44 @@ a {
 li {
     list-style-type: none;
 }
+
+.pagination {
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+}
+
+.pagination li {
+    margin: 0 5px;
+}
+
+.pagination a {
+    display: block;
+    padding: 10px 15px;
+    color: #3498db;
+    text-decoration: none;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.pagination a:hover {
+    background-color: #3498db;
+    color: white;
+}
+
+.pagination .active a {
+    background-color: #3498db;
+    color: white;
+    cursor: default;
+}
+
+.pagination li:first-child a, .pagination li:last-child a {
+    font-weight: bold;
+    color: #555;
+}
+
+.pagination .disabled a {
+    color: #ccc;
+    cursor: not-allowed;
+}
